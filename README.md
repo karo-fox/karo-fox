@@ -4,6 +4,8 @@ I am **karo-fox** and I am passionate about coding since 2019. I am mostly inter
 
 I encourage you to check my projects pinned below :arrow_down:
 
+[Check out my blog!](https://karo-fox.github.io/)
+
 ### My skills:
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
