@@ -14,6 +14,8 @@ I encourage you to check my projects pinned below :arrow_down:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karo-fox&show_icons=true&theme=tokyonight)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65df43d28947e435e747c97e?variant=dark)](https://roadmap.sh)
+
 <!--
 **karo-fox/karo-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
