@@ -7,7 +7,7 @@ I encourage you to check my projects pinned below :arrow_down:
 [Check out my blog!](https://karo-fox.github.io/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karo-fox&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karo-fox&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karo-fox&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65df43d28947e435e747c97e?variant=dark)](https://roadmap.sh)
 
