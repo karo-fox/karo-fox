@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **karo-fox** and I am passionate about coding since 2019. I am mostly interested in backend and I am taking first steps with frontend!
+I am **karo-fox** and I am passionate about coding since 2019.
 
 I encourage you to check my projects pinned below :arrow_down:
 
