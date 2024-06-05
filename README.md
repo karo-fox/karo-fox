@@ -2,7 +2,7 @@
 
 I am **karo-fox** and I am passionate about coding since 2019.
 
-I encourage you to check my projects pinned below :arrow_down:
+I encourage you to check projects I contribute to pinned below :arrow_down:
 
 [Check out my blog!](https://karo-fox.github.io/)
 
